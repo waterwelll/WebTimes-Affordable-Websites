@@ -323,7 +323,7 @@ section h2 {
 
 .testimonials .buttons button {
 	padding: 0.75rem 1.5rem;
-	background-color: rgb(46, 88, 102);
+	background-color: rgb(46, 102, 71);
 	border: 2px solid white;
 	width: 100%;
 	color: white;
@@ -362,8 +362,8 @@ textarea {
 .contact-form-section button {
 	padding: 0.85rem;
 	background-color: transparent;
-	color: #4caf50;
-	border: 2px solid #3b9440;
+	color: rgb(107, 107, 107);
+	border: none;
 	border-radius: 6px;
 	font-weight: 600;
 	cursor: pointer;
